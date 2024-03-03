@@ -2,3 +2,4 @@
 test/*
 test
 gulpfile.js
+package-lock.json
